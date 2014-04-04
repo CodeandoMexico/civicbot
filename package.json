@@ -1,14 +1,14 @@
 {
-  "name": "hosted-hubot",
+  "name": "civicbot",
   "version": "2.7.1",
-  "author": "GitHub Inc.",
+  "author": "Codeando Mexico",
   "keywords": [
     "github",
     "hubot",
     "campfire",
     "bot"
   ],
-  "description": "A simple helpful robot for your Company",
+  "description": "Hubot de Codeando Mexico",
   "licenses": [
     {
       "type": "MIT",
